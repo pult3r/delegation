@@ -1,0 +1,5 @@
+[
+    {"countrycode":"PL","price":10,"currency":"PLN"},
+    {"countrycode":"DE","price":50,"currency":"PLN"},
+    {"countrycode":"GB","price":75,"currency":"PLN"}
+]
